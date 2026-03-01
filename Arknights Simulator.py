@@ -1,4 +1,4 @@
-# Arknights Endfield gacha simulator for Yvonne banner
+# Arknights Endfield gacha simulator
 # Simulates going to 60 pulls everytime for the dossier
 # Assumes you already have the dossier from the previous banner
 # Takes into account AIC quota + Bond quota
